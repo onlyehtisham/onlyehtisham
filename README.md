@@ -81,8 +81,7 @@ I'm a passionate **Data Analyst** and **Office Automation Specialist** from **Pa
   
   <br/>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onlyehtisham&theme=radical&hide_border=true)
-  
+
 </div>
 
 ---
